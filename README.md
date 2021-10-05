@@ -1,6 +1,6 @@
-## This website was made with React App
+## This [website](https://sakibrokoni-edumark.netlify.app/) is created with React App
 ### Project Name "Edu Website"
-This project is not a fully responsive website but it"s about 85% responsive website . For better view use laptop/desktop. This project is [Programming Hero](https://web.programming-hero.com/) course related assignment task .
+This project is not a fully responsive website but it"s about 85% responsive website . For better view use laptop/desktop. This project is [Programming Hero](https://web.programming-hero.com/) course related Assignment-9 task .
 
 #### Live Server Link [EduMark](https://sakibrokoni-edumark.netlify.app/)
 ###### Private Repo [LINK](https://github.com/ProgrammingHeroWC4/review-website-sakibrokoni)
