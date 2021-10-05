@@ -1,0 +1,11 @@
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.btnContact {
+    border: none;
+    color: white;
+    background:black;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+}
