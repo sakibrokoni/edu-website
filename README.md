@@ -8,13 +8,13 @@ This project is about 85% responsive website. For better view use laptop/desktop
 ## Available Resources
 Open the folder src. You can see components , image , App.js and App.css which are the main folders.
 App.js & App.css are custom folder which is used in this project .
-Then main folder is "components" .
+The main folder is "components" .
 ### There are 10 Folders in the "components" file .
-This are most important folders for this Project. The folders are :
+This 10 folders are most important folders for this Project. The folders are :
 -Header,Home ,About ,Courses ,ShowCourses, Services, Contact, Fakedata ,NotFound , Footer .
-#### Note
+### Note
 Each of the folders contains  js file & css file with their unique names.
-##### NotFound
+### NotFound
 This is the 404 Error File .
-##### Fakedata
+#### Fakedata
 This data is genarated for using JSON file which is used in Courses .
