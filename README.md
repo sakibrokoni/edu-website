@@ -6,11 +6,11 @@ This project is about 85% responsive website. For better view use laptop/desktop
 ###### Private Repo [LINK](https://github.com/ProgrammingHeroWC4/review-website-sakibrokoni)
 
 ## Available Resources
-Open the folder src. You can see 
-folder App.js is the main function app .
-Then Open the folder name "components"
-### There are 10 Folders in the components file .
-This are most important folders for this Ptoject. The folders are :
+Open the folder src. You can see components , image , App.js and App.css which are the main folders.
+App.js & App.css are custom folder which is used in this project .
+Then main folder is "components" .
+### There are 10 Folders in the "components" file .
+This are most important folders for this Project. The folders are :
 -Header,Home ,About ,Courses ,ShowCourses, Services, Contact, Fakedata ,NotFound , Footer .
 #### Note
 Each of the folders contains  js file & css file with their unique names.
