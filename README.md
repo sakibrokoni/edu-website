@@ -3,7 +3,6 @@
 This project is not a fully responsive website but it"s about 85% responsive website . For better view use laptop/desktop. This project is [Programming Hero](https://web.programming-hero.com/) course related Assignment-9 task .
 
 #### Live Server Link [EduMark](https://sakibrokoni-edumark.netlify.app/)
-###### Private Repo [LINK](https://github.com/ProgrammingHeroWC4/review-website-sakibrokoni)
 
 ## Available Resources
 Open the folder src. You can see components , image , App.js and App.css which are the main folders.
